@@ -22,6 +22,7 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+ HEAD
 
 # IDE files
 .idea/
@@ -39,3 +40,4 @@ replay_pid*
 .Trashes
 ehthumbs.db
 Thumbs.db
+8e420c067a7c98de4fb1597f918394a5b23ce9b5
