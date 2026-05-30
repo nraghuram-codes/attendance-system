@@ -33,6 +33,8 @@ src/com        -> Java source files
 WebContent     -> JSP, HTML, CSS pages
 DATABASE       -> SQL database files
 
+
+
 ## ## Screenshots
 
 ### Admin Login
