@@ -32,10 +32,10 @@ This project helps manage student attendance digitally instead of maintaining ma
 src/com        -> Java source files
 WebContent     -> JSP, HTML, CSS pages
 DATABASE       -> SQL database files
+```
 
 
-
-## ## Screenshots
+## Screenshots
 
 ### Admin Login
 <img width="1392" height="784" alt="image" src="https://github.com/user-attachments/assets/63c10d79-f0bd-4e36-b919-fa182fb1fcaa" />
